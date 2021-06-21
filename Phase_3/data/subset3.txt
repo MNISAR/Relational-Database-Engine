@@ -1,0 +1,7 @@
+3
+col1	INT
+col2 	INT
+col3	INT
+1	2	3
+4	5	6
+8	2	3

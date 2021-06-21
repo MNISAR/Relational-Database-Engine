@@ -1,0 +1,71 @@
+5
+NAME STR
+AGE INT
+Address INT
+Number INT
+Relation INT
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+Khushal	2	3	4	5
+Krupal	4	3	2	1
+Pooja	2	3	4	5
+Karan	4	3	2	1
+

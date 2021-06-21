@@ -1,0 +1,13 @@
+6,,
+Name,STR,
+Age,INT,
+Address,STR,
+Number,STR,
+Relation,INT,
+PinCode,INT,
+Khushal,23,Arizona State Uni,+12345678,1,380051
+Mishal,23,Arizona State Uni,+13456789,2,342321
+Samip,23,Arizona State Uni,+11223432,3,234534
+Saurabh,23,Arizona State Uni,+18765432,4,123456
+Monil,23,Arizona State Uni,+19874563,5,877665
+Kunj,23,Arizona State Uni,+1534543,6,567898

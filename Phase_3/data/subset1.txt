@@ -1,0 +1,11 @@
+6
+NAME STR
+AGE INT
+Address INT
+Number INT
+Relation INT
+PinCode STR
+Khushal	2	3	4	4	380051
+Krupal	4	3	2	3	380056
+Pooja	2	3	4	2	123345
+Karan	4	3	2	1	985623

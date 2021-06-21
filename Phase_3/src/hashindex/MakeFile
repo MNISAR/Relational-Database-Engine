@@ -1,0 +1,19 @@
+# modify the paths appropriately
+JDKPATH = /usr
+LIBPATH = .:..
+CLASSPATH = $(LIBPATH)
+BINPATH = $(JDKPATH)/bin
+JAVAC = $(JDKPATH)/bin/javac -classpath $(CLASSPATH)
+JAVA  = $(JDKPATH)/bin/java  -classpath $(CLASSPATH)
+
+# test hash
+
+HashTest2:HashTest2.java
+	$(JAVAC) HashTest2.java
+
+hashtest2: HashTest2
+	$(JAVA) hashindex.HashTest2
+
+
+
+

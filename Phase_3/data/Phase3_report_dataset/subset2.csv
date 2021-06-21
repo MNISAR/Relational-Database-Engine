@@ -1,0 +1,9 @@
+6,,
+Name,STR,
+Age,INT,
+Address,INT,
+Number,INT,
+Relation,INT,
+PinCode,STR,
+Monil,1,2,30,4,5
+Samip,2,3,4,5,6

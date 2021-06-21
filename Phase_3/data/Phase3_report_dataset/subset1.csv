@@ -1,0 +1,11 @@
+6,,
+Name,STR,
+Age,INT,
+Address,INT,
+Number,INT,
+Relation,INT,
+PinCode,INT,
+Khushal,1,2,3,4,5
+Krupal,3,4,5,6,7
+Pooja,4,5,6,8,9
+Karan,5,2,9,8,6
